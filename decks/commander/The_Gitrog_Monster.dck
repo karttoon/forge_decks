@@ -1,0 +1,90 @@
+[metadata]
+Name=The_Gitrog_Monster
+[Commander]
+1 The Gitrog Monster|SOI
+[Main]
+1 Acidic Slime|C15
+1 Aid from the Cowl|AER
+1 Ash Barrens|C16
+1 Avenger of Zendikar|DDP
+1 Azusa, Lost but Seeking|CHK
+1 Barren Moor|C15
+1 Beast Within|C16
+1 Blighted Woodland|C17
+1 Bloodstained Mire|EXP
+1 Bojuka Bog|C17
+1 Burgeoning|C16
+1 Centaur Vinecrasher|C15
+1 Command Tower|C17
+1 Constant Mists|STH
+1 Courser of Kruphix|BNG
+1 Creeping Renaissance|ISD
+1 Crop Rotation|DDR
+1 Crucible of Worlds|10E
+1 Cultivate|C17
+1 Dakmor Salvage|MMA
+1 Deathrite Shaman|EMA
+1 Demonic Tutor|VMA
+1 Drownyard Temple|SOI
+1 Eternal Witness|C15
+1 Evolving Wilds|IMA
+1 Expedition Map|MM2
+1 Exploration|CNS
+1 Exsanguinate|SOM
+13 Forest|XLN|1
+1 Ghost Quarter|C15
+1 Golgari Grave-Troll|DDJ
+1 Golgari Rot Farm|IMA
+1 Golgari Signet|MM3
+1 Green Sun's Zenith|EMA
+1 Greenwarden of Murasa|BFZ
+1 Grisly Salvage|C15
+1 Groundskeeper|SOI
+1 Harrow|DDP
+1 Hour of Promise|HOU
+1 Jarad, Golgari Lich Lord|C15
+1 Kodama's Reach|C17
+1 Krosan Grip|C15
+1 Life from the Loam|MMA
+1 Lightning Greaves|C17
+1 Llanowar Wastes|ORI
+1 Lotus Cobra|IMA
+1 Nissa, Vital Force|KLD
+1 Noose Constrictor|EMN
+1 Ob Nixilis, the Fallen|IMA
+1 Oracle of Mul Daya|ZEN
+1 Overgrown Tomb|EXP
+1 Pernicious Deed|CNS
+1 Polluted Mire|C15
+1 Putrefy|MM3
+1 Rampaging Baloths|IMA
+1 Ramunap Excavator|HOU
+1 Raven's Crime|MMA
+1 Realms Uncharted|ROE
+1 Reliquary Tower|C16
+1 Sakura-Tribe Elder|C16
+1 Skirge Familiar|VMA
+1 Slippery Karst|C15
+1 Sol Ring|C17
+1 Splendid Reclamation|EMN
+1 Squandered Resources|VIS
+1 Stinkweed Imp|MMA
+1 Strip Mine|EXP
+5 Swamp|XLN|1
+1 Sylvan Library|EMA
+1 Sylvan Safekeeper|C14
+1 Sylvan Scrying|BFZ
+1 Terramorphic Expanse|C17
+1 Titania, Protector of Argoth|C14
+1 Tranquil Thicket|C17
+1 Traverse the Outlands|C17
+1 Traverse the Ulvenwald|SOI
+1 Urborg, Tomb of Yawgmoth|M15
+1 Verdant Catacombs|MM3
+1 Windswept Heath|EXP
+1 Wooded Foothills|EXP
+1 Woodland Cemetery|ISD
+1 Worm Harvest|C16
+1 Zuran Orb|FVR
+[Sideboard]
+
